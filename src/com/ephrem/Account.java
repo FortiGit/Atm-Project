@@ -3,10 +3,8 @@ package com.ephrem;
 import javax.swing.*;
 import java.io.*;
 /**  Atm Machine programing
- *  Group Member
+
  * Ephrem Kidane
- * Jean Amani Paul
- * Suzan Gehad
  */
 public class Account {
     private final JOptionPane frame = new JOptionPane();
