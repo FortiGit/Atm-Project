@@ -8,10 +8,7 @@ import java.io.FileNotFoundException;
 import java.text.DecimalFormat;
 
 /**  Atm Machine programing
- *  Group Member
  * Ephrem Kidane
- * Jean Amani Paul
- * Suzan Gehad
  */
 
 public class ATM extends JFrame{
